@@ -1,0 +1,15 @@
+.testimonio{
+    background-color: silver;
+    width: 200px;    
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.imagen{
+    border-radius: 100%; 
+    display: flex;    
+    margin-left: auto;
+    margin-right: auto;
+}
